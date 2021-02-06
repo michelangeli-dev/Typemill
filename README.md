@@ -1,0 +1,2 @@
+# Typemill
+For French translation
